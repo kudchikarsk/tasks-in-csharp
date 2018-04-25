@@ -16,9 +16,9 @@ namespace _01_Getting_Started_With_Task
             //within the task
             Task t = new Task(() =>
               {
-                  for (int i = 0; i < 10; i++)
+                  for (int i = 0; i < 100; i++)
                   {
-                      //print current thread id of task t
+                      //print task t thread id
                       Console.WriteLine("Task For Loop Current Thread Id " + Thread.CurrentThread.ManagedThreadId);
                   }
               });
@@ -26,9 +26,9 @@ namespace _01_Getting_Started_With_Task
             //start task t execution
             t.Start();
 
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 100; i++)
             {
-                //print current thread id of main thread
+                //print main thread id
                 Console.WriteLine("Main For Loop Current Thread Id " + Thread.CurrentThread.ManagedThreadId);
             }
 
