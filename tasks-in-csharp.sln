@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Getting Started With Task", "01 Getting Started With Task\01 Getting Started With Task.csproj", "{D40CA449-9088-4EBC-9C74-5B9D47DF385A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Program For Responsiveness", "02 Program For Responsiveness\02 Program For Responsiveness.csproj", "{D5A66493-89BA-48E6-8A2D-A4B159ECB089}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D40CA449-9088-4EBC-9C74-5B9D47DF385A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D40CA449-9088-4EBC-9C74-5B9D47DF385A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D40CA449-9088-4EBC-9C74-5B9D47DF385A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A66493-89BA-48E6-8A2D-A4B159ECB089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A66493-89BA-48E6-8A2D-A4B159ECB089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A66493-89BA-48E6-8A2D-A4B159ECB089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A66493-89BA-48E6-8A2D-A4B159ECB089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
