@@ -1,7 +1,7 @@
 # Tasks In C#
 
 
-This solution is a part of tutorial [Tasks In C#](https://kudchikarsk.github.io/tasks-in-csharp/index.html)
+This solution is a part of tutorial [Tasks In C#](https://codewithshadman.com/c-multithreading/)
 
 
 Solution contains various Windows Forms App / Console App Project for different task parallelism concepts in C#.
